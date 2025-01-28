@@ -7,7 +7,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-dodgerblue" />
 <img src="https://img.shields.io/badge/Lives-India-success" />
-<img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
+<img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi%20%26%20Marathi-brightgreen" />
 </div>
 
 <h3>Connect with me:</h3>
